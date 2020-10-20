@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1325.48 357.32"><defs><style>.a{font-size:315px;font-family:HKGrotesk-BoldItalic, HK Grotesk;font-weight:700;font-style:italic;letter-spacing:-0.1em;}.b{letter-spacing:-0.1em;}.c{letter-spacing:-0.1em;}</style></defs><title>duphub-website-logo</title><text class="a" transform="translate(414.33 277.03)">d<tspan class="b" x="148.46" y="0">up</tspan><tspan class="c" x="444.91" y="0">h</tspan><tspan class="b" x="591.36" y="0">ub</tspan></text><path d="M164.22,277H41.37V239.42H0V125.35H41.37V87.74h81.9L112.68,0l51.54,12Zm-41.37-37.61V125.35H41.37V239.42Z"/><rect x="67.69" y="155.43" width="16.3" height="16.3"/><path d="M171.44,1.13c63.87-7.26.1,135.84.1,135.84,93.68-64.68,182.91,13.39,166.7,141.31H261.38C334.49,123.19,185.83,118.79,171.56,169"/></svg>
+<svg width="1325.48" height="357.32" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{font-size:315px;font-family:HKGrotesk-BoldItalic, HK Grotesk;font-weight:700;font-style:italic;letter-spacing:-0.1em;}.b{letter-spacing:-0.1em;}.c{letter-spacing:-0.1em;}</style>
+ </defs>
+ <title>duphub-website-logo</title>
+ <g>
+  <title>Layer 1</title>
+  <text opacity="0.5" id="svg_1" x="414.32999" y="277.03" class="a">d
+   <tspan id="svg_2" y="277.03" x="562.78999" class="b">up</tspan>
+   <tspan id="svg_3" y="277.03" x="859.23999" class="c">h</tspan>
+   <tspan id="svg_4" y="277.03" x="1005.68999" class="b">ub</tspan></text>
+  <path opacity="0.5" id="svg_5" d="m164.22,277l-122.85,0l0,-37.58l-41.37,0l0,-114.07l41.37,0l0,-37.61l81.9,0l-10.59,-87.74l51.54,12l0,265zm-41.37,-302.61l0,150.96l-81.48,0l0,114.07l81.48,-265.03z"/>
+  <rect opacity="0.5" fill="black" id="svg_6" height="16.3" width="16.3" y="155.43" x="67.69"/>
+  <path opacity="0.5" fill="black" id="svg_7" d="m171.44,1.13c63.87,-7.26 0.09999,135.84 0.09999,135.84c93.68001,-64.68 182.91002,13.39 166.7,141.31l-76.85999,0c73.10999,-155.09 -75.55,-159.49 -89.82001,-109.28"/>
+ </g>
+</svg>
